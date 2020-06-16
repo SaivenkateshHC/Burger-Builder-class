@@ -1,3 +1,6 @@
+#Burger Builder
+  This an application built in React js (Class based) using Redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
